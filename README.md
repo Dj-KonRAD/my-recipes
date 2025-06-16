@@ -6,3 +6,5 @@ Revisiting Recipe Project
     Created boilerplate html
     Changed Title to "My Recipes | Odin Project"
     Created h1 heading "My Recipes"
+
+    Practicing Git commands
